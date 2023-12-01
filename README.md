@@ -12,6 +12,9 @@ https://www.youtube.com/watch?v=EUnbTl1qKvo&t=488s
 </div>
 --->
 
+<img src="https://komarev.com/ghpvc/?username=Sukphadech&style=flat-square&color=blue" alt="account counter"/>
+
+
 **Sukphadech/Sukphadech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
